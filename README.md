@@ -32,7 +32,7 @@ If you have any question about amelia, let us know at [👑ᴏᴡɴᴇʀ👑](Ht
 
 </p>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ItsAttitudeking&repo=king_thor&theme=skyblue)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ItsAttitudeking&repo=king_thor&theme=dark)
 
 </p>
 
